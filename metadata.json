@@ -1,0 +1,5 @@
+{
+  "name": "VTI 評価額計算ツール",
+  "description": "Gemini Search Groundingを使用したリアルタイムVTI価格トラッカーと保有額計算機（円換算対応）。",
+  "requestFramePermissions": []
+}
